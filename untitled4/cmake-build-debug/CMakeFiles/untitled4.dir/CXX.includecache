@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/CLionProjects/untitled4/Circle.cpp
+Circle.h
+C:/Users/Administrator/CLionProjects/untitled4/Circle.h
+
+C:/Users/Administrator/CLionProjects/untitled4/Circle.h
+Shape.h
+C:/Users/Administrator/CLionProjects/untitled4/Shape.h
+
+C:/Users/Administrator/CLionProjects/untitled4/Rect.cpp
+Rect.h
+C:/Users/Administrator/CLionProjects/untitled4/Rect.h
+
+C:/Users/Administrator/CLionProjects/untitled4/Rect.h
+Shape.h
+C:/Users/Administrator/CLionProjects/untitled4/Shape.h
+
+C:/Users/Administrator/CLionProjects/untitled4/Shape.cpp
+Shape.h
+C:/Users/Administrator/CLionProjects/untitled4/Shape.h
+
+C:/Users/Administrator/CLionProjects/untitled4/Shape.h
+iostream
+-
+
+C:/Users/Administrator/CLionProjects/untitled4/main.cpp
+iostream
+-
+Shape.h
+C:/Users/Administrator/CLionProjects/untitled4/Shape.h
+Circle.h
+C:/Users/Administrator/CLionProjects/untitled4/Circle.h
+Rect.h
+C:/Users/Administrator/CLionProjects/untitled4/Rect.h
+
